@@ -61,7 +61,7 @@ The frontend runs on `http://localhost:3000`.
 ## Contact
 For questions or support, contact:  
 **Brahm Dev**  
-**Email:** your.email@example.com  
+**Email:** b.dev0707@gmail.com  
 **GitHub:** (https://github.com/BDev7)
 
 ---
